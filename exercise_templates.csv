@@ -1,0 +1,420 @@
+id,title,type,primary_muscle_group,secondary_muscle_groups,equipment,is_custom
+3BC06AD3,21s Bicep Curl,weight_reps,biceps,[],barbell,False
+B4F2FF72,Ab Scissors,reps_only,abdominals,[],none,False
+99D5F10E,Ab Wheel,reps_only,abdominals,[],other,False
+5E0DDACE,Aerobics,duration,cardio,[],none,False
+43573BB8,Air Bike,duration,cardio,[],machine,False
+A69FF221,Arnold Press (Dumbbell),weight_reps,shoulders,[],dumbbell,False
+D4A2FE7E,Around The World,weight_reps,chest,"['upper_back', 'shoulders']",dumbbell,False
+5BFF35BA,Assisted Pistol Squats,reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+4F5866F8,Back Extension (Hyperextension),reps_only,lower_back,[],machine,False
+A05C064D,Back Extension (Machine),weight_reps,lower_back,[],machine,False
+091737FA,Back Extension (Weighted Hyperextension),bodyweight_weighted,lower_back,[],machine,False
+F51D9080,Ball Slams,weight_reps,full_body,[],other,False
+E8D86EE8,Band Pullaparts,reps_only,shoulders,[],resistance_band,False
+084A67CA,Battle Ropes,duration,cardio,[],machine,False
+714b1e7e-fe41-4656-9dcb-23453f7278d0,Bayesian Curls,weight_reps,biceps,[],other,True
+DDB29047,Behind the Back Bicep Wrist Curl (Barbell),weight_reps,forearms,[],barbell,False
+CD6DC8E5,Bench Dip,reps_only,triceps,[],other,False
+79D0BB3A,Bench Press (Barbell),weight_reps,chest,"['triceps', 'shoulders']",barbell,False
+99C1F2AD,Bench Press (Cable),weight_reps,chest,"['triceps', 'shoulders']",machine,False
+35B51B87,Bench Press - Close Grip (Barbell),weight_reps,triceps,[],barbell,False
+3601968B,Bench Press (Dumbbell),weight_reps,chest,"['triceps', 'shoulders']",dumbbell,False
+0FBF7195,Bench Press (Smith Machine),weight_reps,chest,"['triceps', 'shoulders']",machine,False
+E644F828,Bench Press - Wide Grip (Barbell),weight_reps,chest,"['triceps', 'shoulders']",barbell,False
+EA820646,Bent Over Row (Band),weight_reps,upper_back,[],resistance_band,False
+55E6546F,Bent Over Row (Barbell),weight_reps,upper_back,[],barbell,False
+23E92538,Bent Over Row (Dumbbell),weight_reps,upper_back,[],dumbbell,False
+A5AC6449,Bicep Curl (Barbell),weight_reps,biceps,[],barbell,False
+ADA8623C,Bicep Curl (Cable),weight_reps,biceps,[],machine,False
+37FCC2BB,Bicep Curl (Dumbbell),weight_reps,biceps,[],dumbbell,False
+AF328E3D,Bicep Curl (Machine),weight_reps,biceps,[],machine,False
+0B4C1902,Bicep Curl (Suspension),reps_only,biceps,[],suspension,False
+A41C7261,Bicycle Crunch,reps_only,abdominals,[],none,False
+594450D2,Bicycle Crunch Raised Legs,reps_only,abdominals,[],none,False
+BD0AD077,Bird Dog,reps_only,glutes,[],none,False
+A0D8FA1B,Boxing,duration,cardio,[],none,False
+56092DD1,Box Jump,reps_only,quadriceps,"['hamstrings', 'glutes', 'calves']",other,False
+38FC1AB9,Box Squat (Barbell),weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+B5D3A742,Bulgarian Split Squat,weight_reps,quadriceps,"['glutes', 'hamstrings']",dumbbell,False
+BB792A36,Burpee,reps_only,full_body,[],none,False
+86B00DDE,Burpee Over the Bar,reps_only,full_body,[],none,False
+9DCE2D64,Butterfly (Pec Deck),weight_reps,chest,[],machine,False
+CC55119B,Cable Core Palloff Press,weight_reps,abdominals,[],machine,False
+23A48484,Cable Crunch,weight_reps,abdominals,[],machine,False
+651F844C,Cable Fly Crossovers,weight_reps,chest,[],machine,False
+8C331CD8,Cable Pull Through,weight_reps,glutes,[],machine,False
+92D858EA,Cable Twist (Down to up),weight_reps,abdominals,[],machine,False
+A2D838BD,Cable Twist (Up to down),weight_reps,abdominals,[],machine,False
+47B9DF13,Calf Extension (Machine),weight_reps,calves,[],machine,False
+91237BDD,Calf Press (Machine),weight_reps,calves,[],machine,False
+6FCD7755,Chest Dip,reps_only,chest,['triceps'],machine,False
+E9E4089F,Chest Dip (Assisted),bodyweight_assisted,chest,[],machine,False
+29472BE1,Chest Dip (Weighted),bodyweight_weighted,chest,['triceps'],machine,False
+DDB7C19F,Chest Fly (Band),weight_reps,chest,[],resistance_band,False
+12017185,Chest Fly (Dumbbell),weight_reps,chest,[],dumbbell,False
+78683336,Chest Fly (Machine),weight_reps,chest,[],machine,False
+720B0D70,Chest Fly (Suspension),reps_only,chest,[],suspension,False
+EAC7D9C5,Chest Press (Band),weight_reps,chest,[],resistance_band,False
+7EB3F7C3,Chest Press (Machine),weight_reps,chest,[],machine,False
+914F3A96,Chest Supported Incline Row (Dumbbell),weight_reps,upper_back,[],dumbbell,False
+B582299E,Chest Supported Reverse Fly (Dumbbell),weight_reps,upper_back,['shoulders'],dumbbell,False
+F21D5693,Chest Supported Y Raise (Dumbbell),weight_reps,shoulders,[],dumbbell,False
+29083183,Chin Up,reps_only,lats,"['upper_back', 'biceps']",machine,False
+D23C609B,Chin Up (Assisted),bodyweight_assisted,lats,"['upper_back', 'biceps']",machine,False
+023943F1,Chin Up (Weighted),bodyweight_weighted,lats,"['upper_back', 'biceps']",machine,False
+CC016611,Clamshell,reps_only,glutes,[],resistance_band,False
+10D76E8F,Clap Push Ups,reps_only,chest,"['triceps', 'shoulders']",none,False
+ABB00838,Clean,weight_reps,full_body,[],barbell,False
+9E09CEC3,Clean and Jerk,weight_reps,full_body,[],barbell,False
+D3095577,Clean and Press,weight_reps,full_body,[],barbell,False
+652FEA39,Clean Pull,weight_reps,full_body,[],barbell,False
+E23F1F2B,Climbing,duration,cardio,[],none,False
+724CDE60,Concentration Curl,weight_reps,biceps,[],dumbbell,False
+32C4D4A2,Cross Body Hammer Curl,weight_reps,biceps,[],dumbbell,False
+DCF3B31B,Crunch,reps_only,abdominals,[],none,False
+EB43ADD4,Crunch (Machine),weight_reps,abdominals,[],machine,False
+D928C232,Crunch (Weighted),bodyweight_weighted,abdominals,[],none,False
+D39EC9EB,Curtsy Lunge (Dumbbell),weight_reps,quadriceps,['glutes'],dumbbell,False
+D8F7F851,Cycling,distance_duration,cardio,[],machine,False
+D8911FC4,Dead Bug,reps_only,abdominals,[],none,False
+B9380898,Dead Hang,duration,upper_back,[],none,False
+99507114,Deadlift (Band),weight_reps,hamstrings,"['quadriceps', 'lower_back', 'glutes']",resistance_band,False
+C6272009,Deadlift (Barbell),weight_reps,hamstrings,"['quadriceps', 'lower_back', 'glutes']",barbell,False
+5F4E6DD3,Deadlift (Dumbbell),weight_reps,hamstrings,"['quadriceps', 'lower_back', 'glutes']",dumbbell,False
+FA5D0DE1,Deadlift High Pull,weight_reps,full_body,[],barbell,False
+20870ED5,Deadlift (Smith Machine),weight_reps,hamstrings,"['quadriceps', 'lower_back', 'glutes']",machine,False
+B923B230,Deadlift (Trap bar),weight_reps,hamstrings,"['quadriceps', 'lower_back', 'glutes']",barbell,False
+DA0F0470,Decline Bench Press (Barbell),weight_reps,chest,['triceps'],barbell,False
+18487FA7,Decline Bench Press (Dumbbell),weight_reps,chest,['triceps'],dumbbell,False
+FAF31231,Decline Bench Press (Machine),weight_reps,chest,['triceps'],machine,False
+FFC106CB,Decline Bench Press (Smith Machine),weight_reps,chest,['triceps'],machine,False
+A351AED7,Decline Chest Fly (Dumbbell),weight_reps,chest,[],dumbbell,False
+BC10A922,Decline Crunch,reps_only,abdominals,[],none,False
+B2398CD1,Decline Crunch (Weighted),bodyweight_weighted,abdominals,[],none,False
+C43825EA,Decline Push Up,reps_only,chest,"['shoulders', 'triceps']",other,False
+6575F52D,Diamond Push Up,reps_only,triceps,['chest'],none,False
+7DA843A3,Downward Dog,reps_only,full_body,[],none,False
+D950429E,Drag Curl,weight_reps,biceps,[],barbell,False
+AFC29472,Dragon Flag,reps_only,abdominals,[],none,False
+B7192800,Dragonfly,reps_only,abdominals,[],none,False
+F1E57334,Dumbbell Row,weight_reps,upper_back,[],dumbbell,False
+F3717B0E,Dumbbell Snatch,weight_reps,full_body,[],dumbbell,False
+F72FA239,Dumbbell Squeeze Press,weight_reps,chest,[],dumbbell,False
+BF6ECE89,Dumbbell Step Up,weight_reps,quadriceps,[],dumbbell,False
+A01BE509,Elbow to Knee,reps_only,abdominals,[],none,False
+3303376C,Elliptical Trainer,distance_duration,cardio,[],machine,False
+01A35BF9,EZ Bar Biceps Curl,weight_reps,biceps,[],barbell,False
+BE640BA0,Face Pull,weight_reps,shoulders,[],machine,False
+50C613D0,Farmers Walk,short_distance_weight,full_body,[],other,False
+2AF8B552,Fire Hydrants,reps_only,glutes,[],none,False
+D53F2886,Floor Press (Barbell),weight_reps,chest,[],barbell,False
+756EE329,Floor Press (Dumbbell),weight_reps,chest,[],dumbbell,False
+A57D38D5,Floor Triceps Dip,reps_only,triceps,[],none,False
+2FA77B28,Flutter Kicks,reps_only,abdominals,[],none,False
+207DC636,Frog Jumps,reps_only,full_body,[],none,False
+F6948F17,Frog Pumps (Dumbbell),weight_reps,glutes,[],dumbbell,False
+0E608350,Front Lever Hold,duration,abdominals,[],none,False
+30F03BF0,Front Lever Raise,reps_only,abdominals,[],none,False
+47B036EF,Front Raise (Band),weight_reps,shoulders,[],resistance_band,False
+BD86EFD5,Front Raise (Barbell),weight_reps,shoulders,[],barbell,False
+DBB91A3C,Front Raise (Cable),weight_reps,shoulders,[],machine,False
+8293E554,Front Raise (Dumbbell),weight_reps,shoulders,[],dumbbell,False
+796E8E2C,Front Raise (Suspension),reps_only,shoulders,[],suspension,False
+5046D0A9,Front Squat,weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+1283BBA6,Full Squat,weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+CDA23948,Glute Bridge,reps_only,glutes,[],none,False
+68B83EE0,Glute Ham Raise,reps_only,hamstrings,[],machine,False
+CBA02382,Glute Kickback (Machine),weight_reps,glutes,[],machine,False
+987234AB,Glute Kickback on Floor,reps_only,glutes,[],none,False
+3D0C7C75,Goblet Squat,weight_reps,quadriceps,"['hamstrings', 'glutes']",dumbbell,False
+4180C405,Good Morning (Barbell),weight_reps,hamstrings,"['lower_back', 'glutes']",barbell,False
+05487216,Gorilla Row (Kettlebell),weight_reps,upper_back,[],kettlebell,False
+AC5A4C58,Hack Squat,weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+1E42FD5F,Hack Squat (Machine),weight_reps,quadriceps,[],machine,False
+1D4B3D6B,Hammer Curl (Band),weight_reps,biceps,[],resistance_band,False
+36E8F14E,Hammer Curl (Cable),weight_reps,biceps,[],machine,False
+7E3BC8B6,Hammer Curl (Dumbbell),weight_reps,biceps,[],dumbbell,False
+BE3615CF,Handstand Hold,duration,full_body,[],none,False
+90B04F96,Handstand Push Up,reps_only,shoulders,[],none,False
+BD4E7E53,Hang Clean,weight_reps,full_body,[],barbell,False
+08590920,Hanging Knee Raise,reps_only,abdominals,[],none,False
+F8356514,Hanging Leg Raise,reps_only,abdominals,[],none,False
+F4E77594,Hang Snatch,weight_reps,full_body,[],barbell,False
+567FB505,Heel Taps,reps_only,abdominals,[],none,False
+BE89C631,Hex Press (Dumbbell),weight_reps,chest,['triceps'],dumbbell,False
+150E076B,High Knees,reps_only,glutes,[],none,False
+C9CCB878,High Knee Skips,reps_only,quadriceps,[],none,False
+023947AB,HIIT,duration,cardio,[],none,False
+1C34A172,Hiking,distance_duration,cardio,[],none,False
+F4B4C6EE,Hip Abduction (Machine),weight_reps,abductors,[],machine,False
+8BEBFED6,Hip Adduction (Machine),weight_reps,adductors,[],machine,False
+92B8C7E1,Hip Thrust,reps_only,glutes,[],none,False
+D57C2EC7,Hip Thrust (Barbell),weight_reps,glutes,[],barbell,False
+68CE0B9B,Hip Thrust (Machine),weight_reps,glutes,[],machine,False
+970ADF87,Hollow Rock,duration,abdominals,[],none,False
+50DFDFAB,Incline Bench Press (Barbell),weight_reps,chest,"['triceps', 'shoulders']",barbell,False
+07B38369,Incline Bench Press (Dumbbell),weight_reps,chest,"['triceps', 'shoulders']",dumbbell,False
+3A6FA3D1,Incline Bench Press (Smith Machine),weight_reps,chest,"['triceps', 'shoulders']",machine,False
+D3E2AB55,Incline Chest Fly (Dumbbell),weight_reps,chest,[],dumbbell,False
+FBF92739,Incline Chest Press (Machine),weight_reps,chest,"['triceps', 'shoulders']",machine,False
+39C99849,Incline Push Ups,reps_only,chest,[],none,False
+425805F4,Inverted Row,reps_only,upper_back,[],machine,False
+24706DCD,Iso-Lateral Chest Press (Machine),weight_reps,chest,[],machine,False
+BC3492DA,Iso-Lateral High Row (Machine),weight_reps,lats,[],machine,False
+91FAFBA3,Iso-Lateral Low Row,weight_reps,lats,['upper_back'],machine,False
+AA1EB7D8,Iso-Lateral Row (Machine),weight_reps,lats,[],machine,False
+32B0B590,Jackknife Sit Up,reps_only,abdominals,[],none,False
+D410F649,Jack Knife (Suspension),reps_only,abdominals,[],suspension,False
+74103F24,JM Press (Barbell),weight_reps,triceps,[],barbell,False
+991833C2,Jumping Jack,reps_only,full_body,[],none,False
+5CC07A1F,Jumping Lunge,reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+040BA2E3,Jump Rope,duration,cardio,[],other,False
+BA3DE542,Jump Shrug,weight_reps,full_body,[],barbell,False
+70D4EBBF,Jump Squat,reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+F99C211D,Kettlebell Clean,weight_reps,full_body,[],kettlebell,False
+4E239ED8,Kettlebell Curl,weight_reps,biceps,[],kettlebell,False
+A127DA73,Kettlebell Goblet Squat,weight_reps,quadriceps,[],kettlebell,False
+9B13BA4B,Kettlebell High Pull,weight_reps,full_body,['traps'],kettlebell,False
+6433CD93,Kettlebell Shoulder Press,weight_reps,full_body,[],kettlebell,False
+89304423,Kettlebell Snatch,weight_reps,full_body,[],kettlebell,False
+F8A0FCCA,Kettlebell Swing,weight_reps,full_body,[],kettlebell,False
+5F8903BF,Kettlebell Turkish Get Up,weight_reps,full_body,[],kettlebell,False
+A91838C0,Kipping Pull Up,reps_only,lats,['upper_back'],machine,False
+D82EA543,Kneeling Pulldown (band),weight_reps,lats,[],machine,False
+B74A95BB,Kneeling Push Up,reps_only,chest,"['triceps', 'shoulders']",none,False
+98237BA2,Knee Raise Parallel Bars,reps_only,abdominals,[],machine,False
+923874CA,Landmine 180,weight_reps,abdominals,[],barbell,False
+D7D7FCCE,Landmine Row,weight_reps,upper_back,['lats'],barbell,False
+983274DD,Landmine Squat and Press,weight_reps,full_body,[],barbell,False
+EC02979E,Lateral Band Walks,reps_only,glutes,[],resistance_band,False
+07EBC4DC,Lateral Box Jump,reps_only,quadriceps,[],other,False
+DC59D143,Lateral Leg Raises,reps_only,glutes,[],none,False
+F2A37357,Lateral Lunge,reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+DF200976,Lateral Raise (Band),weight_reps,shoulders,[],resistance_band,False
+BE289E45,Lateral Raise (Cable),weight_reps,shoulders,[],machine,False
+422B08F1,Lateral Raise (Dumbbell),weight_reps,shoulders,[],dumbbell,False
+D5D0354D,Lateral Raise (Machine),weight_reps,shoulders,[],machine,False
+D731CCA8,Lateral Squat,reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+D2FE7B2E,Lat Pulldown (Band),weight_reps,lats,[],resistance_band,False
+6A6C31A5,Lat Pulldown (Cable),weight_reps,lats,[],machine,False
+4E5257DE,Lat Pulldown - Close Grip (Cable),weight_reps,lats,[],machine,False
+473CF5B8,Lat Pulldown (Machine),weight_reps,lats,[],machine,False
+75A4F6C4,Leg Extension (Machine),weight_reps,quadriceps,[],machine,False
+0EB695C9,Leg Press Horizontal (Machine),weight_reps,quadriceps,"['hamstrings', 'glutes']",machine,False
+C7973E0E,Leg Press (Machine),weight_reps,quadriceps,[],machine,False
+0482DA98,Leg Raise Parallel Bars,reps_only,abdominals,[],machine,False
+293483AD,Low Cable Fly Crossovers,weight_reps,chest,[],machine,False
+8A2E6481,Low Row (Suspension),reps_only,upper_back,[],suspension,False
+6D54A050,L-Sit Hold,duration,abdominals,[],none,False
+5E1A7777,Lunge,reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+6E6EE645,Lunge (Barbell),weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+B537D09F,Lunge (Dumbbell),weight_reps,quadriceps,"['hamstrings', 'glutes']",dumbbell,False
+BD5935CF,Lying Knee Raise,reps_only,abdominals,[],none,False
+B8127AD1,Lying Leg Curl (Machine),weight_reps,hamstrings,[],machine,False
+09C9F635,Lying Leg Raise,reps_only,abdominals,[],none,False
+22FEDCA4,Lying Neck Curls,reps_only,neck,[],none,False
+31B8DA0F,Lying Neck Curls (Weighted),weight_reps,neck,[],plate,False
+0910BD28,Lying Neck Extension,reps_only,neck,[],none,False
+D6A73CF2,Lying Neck Extension (Weighted),weight_reps,neck,[],plate,False
+C732C341,Meadows Rows (Barbell),weight_reps,upper_back,[],barbell,False
+F49E31D6,Mountain Climber,reps_only,full_body,[],none,False
+62108ca4-b2b8-42af-a679-2586e7a3d004,Multi flight Lateral Raise,weight_reps,shoulders,[],other,True
+9F9C164B,Muscle Up,reps_only,full_body,[],machine,False
+F60BDDF8,Negative Pull Up,bodyweight_weighted,lats,[],none,False
+108D7A14,Nordic Hamstrings Curls,reps_only,hamstrings,['glutes'],none,False
+DBE341AA,Oblique Crunch,reps_only,abdominals,[],none,False
+B140095E,One Arm Push Up,reps_only,full_body,[],none,False
+582ADA23,Overhead Curl (Cable),weight_reps,biceps,[],machine,False
+4C6721B9,Overhead Dumbbell Lunge,weight_reps,quadriceps,"['hamstrings', 'glutes']",dumbbell,False
+7B8D84E8,Overhead Press (Barbell),weight_reps,shoulders,['triceps'],barbell,False
+6AC96645,Overhead Press (Dumbbell),weight_reps,shoulders,['triceps'],dumbbell,False
+B09A1304,Overhead Press (Smith Machine),weight_reps,shoulders,['triceps'],machine,False
+2CFED196,Overhead Squat,weight_reps,full_body,[],barbell,False
+CE1054CE,Pause Squat (Barbell),weight_reps,quadriceps,[],barbell,False
+018ADC12,Pendlay Row (Barbell),weight_reps,upper_back,[],barbell,False
+30E293E3,Pendulum Squat (Machine),weight_reps,quadriceps,"['glutes', 'calves']",machine,False
+0EFE8162,Pike Pushup,reps_only,triceps,['shoulders'],none,False
+EC2510CD,Pilates,duration,full_body,[],none,False
+942BAD12,Pinwheel Curl (Dumbbell),weight_reps,biceps,[],dumbbell,False
+3FF6A22E,Pistol Squat,reps_only,quadriceps,"['hamstrings', 'glutes', 'calves']",none,False
+C6C9B8A0,Plank,duration,abdominals,[],none,False
+31436F5D,Plank Pushup,reps_only,chest,['abdominals'],none,False
+9283ABD5,Plate Curl,weight_reps,biceps,[],plate,False
+DBF9273A,Plate Front Raise,weight_reps,shoulders,[],plate,False
+982734D4,Plate Press,weight_reps,chest,[],plate,False
+9373FSD1,Plate Squeeze (Svend Press),weight_reps,chest,[],plate,False
+C628D768,Power Clean,weight_reps,full_body,[],barbell,False
+E22F9358,Power Snatch,weight_reps,full_body,[],barbell,False
+4F942934,Preacher Curl (Barbell),weight_reps,biceps,[],barbell,False
+FAB6EB2F,Preacher Curl (Dumbbell),weight_reps,biceps,[],dumbbell,False
+1E9A6B8E,Preacher Curl (Machine),weight_reps,biceps,[],machine,False
+84A77566,Press Under,weight_reps,full_body,[],barbell,False
+67280085,Pullover (Dumbbell),weight_reps,chest,[],dumbbell,False
+B123DD01,Pullover (Machine),weight_reps,chest,['lats'],machine,False
+1B2B1E7C,Pull Up,reps_only,lats,['upper_back'],machine,False
+2C37EC5E,Pull Up (Assisted),bodyweight_assisted,lats,['upper_back'],machine,False
+56808FD2,Pull Up (Band),bodyweight_assisted,lats,['upper_back'],resistance_band,False
+729237D1,Pull Up (Weighted),bodyweight_weighted,lats,['upper_back'],machine,False
+542F3CD5,Push Press,weight_reps,shoulders,[],barbell,False
+392887AA,Push Up,reps_only,chest,"['triceps', 'shoulders']",none,False
+947DAC23,Push Up - Close Grip,reps_only,chest,"['triceps', 'shoulders']",none,False
+19372ABC,Push Up (Weighted),bodyweight_weighted,chest,"['triceps', 'shoulders']",none,False
+FE389074,Rack Pull,weight_reps,lower_back,"['glutes', 'quadriceps', 'hamstrings']",barbell,False
+C315DC2A,Rear Delt Reverse Fly (Cable),weight_reps,upper_back,['shoulders'],machine,False
+E5988A0A,Rear Delt Reverse Fly (Dumbbell),weight_reps,upper_back,['shoulders'],dumbbell,False
+D8281C62,Rear Delt Reverse Fly (Machine),weight_reps,upper_back,['shoulders'],machine,False
+1B89CA1B,Renegade Row (Dumbbell),weight_reps,upper_back,[],dumbbell,False
+7952B5CD,Reverse Crunch,reps_only,abdominals,[],none,False
+112FC6B7,Reverse Curl (Barbell),weight_reps,biceps,['forearms'],barbell,False
+9F48F858,Reverse Curl (Cable),weight_reps,biceps,[],machine,False
+B567DD46,Reverse Curl (Dumbbell),weight_reps,biceps,['forearms'],dumbbell,False
+9264ADA1,Reverse Fly Single Arm (Cable),weight_reps,upper_back,['shoulders'],machine,False
+1FF4097B,Reverse Grip Concentration Curl,weight_reps,biceps,[],dumbbell,False
+046E25A2,Reverse Grip Lat Pulldown (Cable),weight_reps,upper_back,[],machine,False
+7C0028C3,Reverse Hyperextension,weight_reps,glutes,['hamstrings'],machine,False
+C284D923,Reverse Lunge,reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+818BA121,Reverse Lunge (Barbell),weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+FFDA283B,Reverse Lunge (Dumbbell),weight_reps,hamstrings,"['hamstrings', 'glutes', 'quadriceps']",dumbbell,False
+99B49684,Reverse Plank,duration,abdominals,[],none,False
+51A0EDAA,Ring Dips,reps_only,triceps,[],none,False
+2B4B7310,Romanian Deadlift (Barbell),weight_reps,hamstrings,['glutes'],barbell,False
+72CFFAD5,Romanian Deadlift (Dumbbell),weight_reps,hamstrings,['glutes'],dumbbell,False
+234897AB,Rope Cable Curl,weight_reps,biceps,[],machine,False
+9273BA17,Rope Straight Arm Pulldown,weight_reps,lats,[],machine,False
+0222DB42,Rowing Machine,distance_duration,cardio,[],machine,False
+AC1BB830,Running,distance_duration,cardio,[],none,False
+BB83BDDE,Russian Twist (Bodyweight),reps_only,abdominals,[],none,False
+2982AA23,Russian Twist (Weighted),weight_reps,abdominals,[],plate,False
+C7AE420A,Scapular Pull Ups,reps_only,upper_back,[],none,False
+F1D60854,Seated Cable Row - Bar Grip,weight_reps,upper_back,[],machine,False
+C3BCABB3,Seated Cable Row - Bar Wide Grip,weight_reps,upper_back,[],machine,False
+0393F233,Seated Cable Row - V Grip (Cable),weight_reps,upper_back,[],machine,False
+062AB91A,Seated Calf Raise,weight_reps,calves,[],machine,False
+6B4C797E,Seated Chest Flys (Cable),weight_reps,chest,[],machine,False
+5122E7D9,Seated Dip Machine,weight_reps,triceps,[],machine,False
+8BAB2735,Seated Incline Curl (Dumbbell),weight_reps,biceps,[],dumbbell,False
+9372FFAA,Seated Lateral Raise (Dumbbell),weight_reps,shoulders,[],dumbbell,False
+11A123F3,Seated Leg Curl (Machine),weight_reps,hamstrings,[],machine,False
+91AF29E0,Seated Overhead Press (Barbell),weight_reps,shoulders,['triceps'],barbell,False
+9930DF71,Seated Overhead Press (Dumbbell),weight_reps,shoulders,['triceps'],dumbbell,False
+1006DF48,Seated Palms Up Wrist Curl,weight_reps,forearms,[],dumbbell,False
+1DF4A847,Seated Row (Machine),weight_reps,upper_back,[],machine,False
+9237BAD1,Seated Shoulder Press (Machine),weight_reps,shoulders,['triceps'],machine,False
+5286770a-c2ff-4a8d-9a4a-e65892d67c17,Seated Single Leg Curl,weight_reps,hamstrings,[],machine,True
+234BC743,Seated Triceps Press,weight_reps,triceps,[],machine,False
+9202CC23,Seated Wrist Extension (Barbell),weight_reps,forearms,[],barbell,False
+878CD1D0,Shoulder Press (Dumbbell),weight_reps,shoulders,[],dumbbell,False
+059E835D,Shoulder Press (Machine Plates),weight_reps,shoulders,[],machine,False
+502FCE31,Shoulder Taps,reps_only,shoulders,['abdominals'],none,False
+0B841777,Shrug (Barbell),weight_reps,traps,['neck'],barbell,False
+FFABC123,Shrug (Cable),weight_reps,traps,['neck'],machine,False
+ABEC557F,Shrug (Dumbbell),weight_reps,traps,['neck'],dumbbell,False
+19A38071,Shrug (Machine),weight_reps,traps,['neck'],machine,False
+742E5BD5,Shrug (Smith Machine),weight_reps,traps,['neck'],machine,False
+37F9EDA7,Side Bend,reps_only,abdominals,[],none,False
+026FD047,Side Bend (Dumbbell),weight_reps,abdominals,[],dumbbell,False
+E3EDA509,Side Plank,duration,abdominals,[],none,False
+8372BBCC,Single Arm Cable Crossover,weight_reps,chest,[],machine,False
+D0C4A899,Single Arm Cable Row,weight_reps,upper_back,[],machine,False
+B33B526E,Single Arm Curl (Cable),weight_reps,biceps,[],machine,False
+1837BA23,Single Arm Landmine Press (Barbell),weight_reps,shoulders,[],barbell,False
+DE68C825,Single Arm Lateral Raise (Cable),weight_reps,shoulders,[],machine,False
+2EE45F81,Single Arm Lat Pulldown,weight_reps,lats,[],machine,False
+8347DFD1,Single Arm Tricep Extension (Dumbbell),weight_reps,triceps,[],dumbbell,False
+552AB030,Single Arm Triceps Pushdown (Cable),weight_reps,triceps,[],machine,False
+629AE73D,Single Leg Extensions,weight_reps,quadriceps,[],machine,False
+CBC0D834,Single Leg Glute Bridge,reps_only,glutes,[],none,False
+487B3755,Single Leg Hip Thrust,reps_only,glutes,[],none,False
+D1CD146F,Single Leg Hip Thrust (Dumbbell),weight_reps,glutes,[],dumbbell,False
+3FD83744,Single Leg Press (Machine),weight_reps,quadriceps,[],machine,False
+93472AC1,Single Leg Romanian Deadlift (Barbell),weight_reps,hamstrings,['glutes'],barbell,False
+937292AB,Single Leg Romanian Deadlift (Dumbbell),weight_reps,hamstrings,['glutes'],dumbbell,False
+238BA231,Single Leg Standing Calf Raise,reps_only,calves,[],none,False
+E51CCBE5,Single Leg Standing Calf Raise (Barbell),weight_reps,calves,[],barbell,False
+5DA40761,Single Leg Standing Calf Raise (Dumbbell),weight_reps,calves,[],dumbbell,False
+B05C2C29,Single Leg Standing Calf Raise (Machine),weight_reps,calves,[],machine,False
+F5DEF1EB,Sissy Squat (Weighted),weight_reps,quadriceps,[],none,False
+022DF610,Sit Up,reps_only,abdominals,[],none,False
+9237BA12,Sit Up (Weighted),bodyweight_weighted,abdominals,[],none,False
+24A809EF,Skating,duration,cardio,[],none,False
+84325755,Skiing,duration,cardio,[],none,False
+875F585F,Skullcrusher (Barbell),weight_reps,triceps,[],barbell,False
+68F8A292,Skullcrusher (Dumbbell),weight_reps,triceps,[],dumbbell,False
+7757171F,Sled Push,distance_duration,full_body,[],other,False
+FB09C938,Snatch,weight_reps,full_body,[],barbell,False
+911A58D3,Snowboarding,duration,cardio,[],none,False
+2348AB72,Spider Curl (Barbell),weight_reps,biceps,[],barbell,False
+90427D4A,Spider Curl (Dumbbell),weight_reps,biceps,[],dumbbell,False
+C10A5AC9,Spiderman,reps_only,abdominals,[],none,False
+213AB238,Spinning,duration,cardio,[],machine,False
+E764B907,Split Jerk,weight_reps,full_body,[],barbell,False
+20C1A3CB,Split Squat (Dumbbell),weight_reps,quadriceps,[],dumbbell,False
+9283BABA,Sprints,distance_duration,cardio,[],none,False
+F1258206,Squat (Band),weight_reps,quadriceps,"['hamstrings', 'glutes']",resistance_band,False
+D04AC939,Squat (Barbell),weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+9694DA61,Squat (Bodyweight),reps_only,quadriceps,"['hamstrings', 'glutes']",none,False
+DCFF3E9F,Squat (Dumbbell),weight_reps,quadriceps,"['hamstrings', 'glutes']",dumbbell,False
+CC35A01F,Squat (Machine),weight_reps,quadriceps,"['hamstrings', 'glutes']",machine,False
+A8814C06,Squat Row,weight_reps,full_body,[],machine,False
+DDCC3821,Squat (Smith Machine),weight_reps,quadriceps,"['hamstrings', 'glutes']",machine,False
+B82D6418,Squat (Suspension),reps_only,quadriceps,[],suspension,False
+4377A52B,Stair Machine (Floors),floors_duration,cardio,[],machine,False
+4377A52C,Stair Machine (Steps),steps_duration,cardio,[],machine,False
+ACB2751D,Standing Cable Glute Kickbacks,weight_reps,glutes,[],machine,False
+06745E58,Standing Calf Raise,reps_only,calves,[],none,False
+E53CCBE5,Standing Calf Raise (Barbell),weight_reps,calves,[],barbell,False
+6DA40660,Standing Calf Raise (Dumbbell),weight_reps,calves,[],dumbbell,False
+E05C2C38,Standing Calf Raise (Machine),weight_reps,calves,[],machine,False
+AA52E8D2,Standing Calf Raise (Smith),weight_reps,calves,[],machine,False
+6120CAAB,Standing Leg Curls,weight_reps,hamstrings,[],machine,False
+073032BB,Standing Military Press (Barbell),weight_reps,shoulders,[],barbell,False
+128A2381,Step Up,reps_only,quadriceps,[],other,False
+EE2938D1,Sternum Pull up (Gironda),reps_only,lats,[],machine,False
+D2387AB1,Straight Arm Lat Pulldown (Cable),weight_reps,lats,[],machine,False
+2A48E443,Straight Leg Deadlift,weight_reps,hamstrings,['glutes'],barbell,False
+527DA061,Stretching,duration,other,[],none,False
+D20D7BBE,Sumo Deadlift,weight_reps,hamstrings,"['quadriceps', 'lower_back', 'glutes']",barbell,False
+3F5F8D40,Sumo Squat,reps_only,quadriceps,[],none,False
+6622E5A0,Sumo Squat (Barbell),weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+05293BCA,Sumo Squat (Dumbbell),weight_reps,quadriceps,[],dumbbell,False
+5E10D0E6,Sumo Squat (Kettlebell),weight_reps,quadriceps,[],kettlebell,False
+218DA87C,Superman,reps_only,lower_back,[],none,False
+B60A678F,Swimming,distance_duration,cardio,[],none,False
+08A2974E,T Bar Row,weight_reps,upper_back,[],barbell,False
+90E506D5,Thruster (Barbell),weight_reps,full_body,[],barbell,False
+10313AFD,Thruster (Kettlebell),weight_reps,full_body,[],kettlebell,False
+58041982-ced1-4cb8-b0a0-128e41a2b2a8,Tibialis raise,weight_reps,calves,[],none,True
+B94E35E1,Toes to Bar,reps_only,abdominals,[],none,False
+75BAC5C3,Toe Touch,reps_only,abdominals,[],none,False
+FBB62888,Torso Rotation,weight_reps,abdominals,[],machine,False
+243710DE,Treadmill,distance_duration,cardio,[],machine,False
+4a675992-7560-4db6-912f-b13b78e1ba1d,Tricep Extension,weight_reps,triceps,[],machine,True
+28BB4A95,Triceps Dip,reps_only,triceps,[],machine,False
+4B4BF8C2,Triceps Dip (Assisted),bodyweight_assisted,triceps,[],machine,False
+10347BAC,Triceps Dip (Weighted),bodyweight_weighted,triceps,[],machine,False
+2F8D3067,Triceps Extension (Barbell),weight_reps,triceps,[],barbell,False
+21310F5F,Triceps Extension (Cable),weight_reps,triceps,[],machine,False
+3765684D,Triceps Extension (Dumbbell),weight_reps,triceps,[],dumbbell,False
+3092FADD,Triceps Extension (Machine),weight_reps,triceps,[],machine,False
+6182EE83,Triceps Extension (Suspension),reps_only,triceps,[],suspension,False
+EC3B69A3,Triceps Kickback (Cable),weight_reps,triceps,[],machine,False
+6127A3AD,Triceps Kickback (Dumbbell),weight_reps,triceps,[],dumbbell,False
+CDC472B1,Triceps Pressdown,weight_reps,triceps,[],machine,False
+93A552C6,Triceps Pushdown,weight_reps,triceps,[],machine,False
+94B7239B,Triceps Rope Pushdown,weight_reps,triceps,[],machine,False
+7AB9A362,Upright Row (Barbell),weight_reps,traps,"['upper_back', 'shoulders']",barbell,False
+286C1D0B,Upright Row (Cable),weight_reps,shoulders,[],machine,False
+797F0782,Upright Row (Dumbbell),weight_reps,shoulders,[],dumbbell,False
+6BE68B62,V Up,reps_only,abdominals,[],none,False
+33EDD7DB,Walking,distance_duration,cardio,[],none,False
+32HKJ34K,Walking Lunge,reps_only,quadriceps,"['glutes', 'hamstrings']",none,False
+A733CC5B,Walking Lunge (Dumbbell),short_distance_weight,quadriceps,"['glutes', 'hamstrings']",dumbbell,False
+A1F47ACC,Wall Ball,weight_reps,full_body,[],other,False
+C8706C80,Wall Sit,duration,quadriceps,[],other,False
+79EF4E4F,Warm Up,duration,full_body,[],none,False
+7C50F118,Wide Pull Up,reps_only,lats,[],machine,False
+0E4523F4,Wrist Roller,weight_reps,forearms,[],machine,False
+8C9D2928,Yoga,duration,full_body,[],none,False
+40C6A9FC,Zercher Squat,weight_reps,quadriceps,"['hamstrings', 'glutes']",barbell,False
+123EE239,Zottman Curl (Dumbbell),weight_reps,biceps,[],dumbbell,False
