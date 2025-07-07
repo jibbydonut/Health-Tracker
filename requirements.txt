@@ -1,0 +1,7 @@
+google
+dotenv
+os
+pandas
+requests
+json
+sqlalchemy
